@@ -1,0 +1,26 @@
+1. Crie um programa que some todos os números pares entre 1 e , onde é fornecido pelo
+usuário.
+2. Escreva um aplicativo que solicita ao usuário que insira o tamanho do lado de um quadrado e,
+então, exibe um quadrado vazio desse tamanho com asteriscos. Seu programa deve trabalhar
+com quadrados de todos os comprimentos de lado possíveis entre 1 e 20.
+3. Crie um jogo simples de adivinhação em que o programa escolhe um número aleatório entre 1
+e 100 e o usuário tem que adivinhar.
+4. Verifique se uma string é um palíndromo, ignorando espaços, pontuações e diferenças entre
+maiúsculas e minúsculas.
+5. Crie um programa que verifique se duas palavras ou frases são anagramas, ou seja, se
+possuem os mesmos caracteres (ignorando espaços e maiúsculas/minúsculas).
+6. Implemente o algoritmo da sequência de Collatz. Dado um número inteiro positivo, se ele for
+par, divida-o por 2; se for ímpar, multiplique-o por 3 e some 1. Repita o processo até que o
+número se torne 1. Exiba a sequência completa e o número de passos necessários.
+7. Implemente o Crivo de Eratóstenes (faça uma pesquisa) para gerar todos os números primos
+até um número N fornecido pelo usuário.
+8. A série de Fibonacci é 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, … Os dois primeiros termos são iguais a 1, e
+a partir do terceiro, o termo é dado pela soma dos dois termos anteriores. Dado um número n≥
+3, exiba o n-ésimo termo da série de Fibonacci. (Não use recursivo.)
+9. Um número de Armstrong é aquele que é igual à soma de seus dígitos elevados à potência do
+número de dígitos. Por exemplo, 153 é um número de Armstrong, pois .
+Crie um programa que imprima todos os números de Armstrong em um intervalo definido pelo
+usuário.
+10. Crie um programa que leia uma lista de palavras e um termo a ser buscado. Utilize um
+laço  for  para realizar uma busca linear na lista. Se a palavra for encontrada, imprima o índice
+em que ela está; caso contrário, informe que a palavra não foi encontrada.
